@@ -9,11 +9,11 @@ int r=2;
 int f=2;
 int z =2;
 // Wi-Fi credentials
-const char* ssid = "DECOM41231";
-const char* password = "9886249760";
+const char* ssid = "wifi name";
+const char* password = "wifi password";
 
 // Google Apps Script Web App URL (doGet URL)
-const char* url = "https://script.google.com/macros/s/AKfycbw5W-nH-qBLN_tfsfjj0BymnIiLI6_VTKXvtH3u0HY0hpsyQ2jXuaflpPdQHyguuepjXg/exec";
+const char* url = "url";
 
 void setup() {
   s1.attach(4);
