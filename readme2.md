@@ -18,10 +18,10 @@ a arduino or esp8266
 a pair of seethrough glasses with a flat lense
 example
 
-<img width="1100" height="1100" alt="image" src="https://github.com/user-attachments/assets/76bae35e-ea1a-457b-b354-1cc77c721e40" />
+<img width="225" height="225"  alt="image" src="https://github.com/user-attachments/assets/76bae35e-ea1a-457b-b354-1cc77c721e40" />
 
 
-<img width="512" height="624" alt="image" src="https://github.com/user-attachments/assets/92357644-b16b-42f9-84e9-e0e5376ef0e9" />
+<img width="225" height="225"  alt="image" src="https://github.com/user-attachments/assets/92357644-b16b-42f9-84e9-e0e5376ef0e9" />
 
 ![1752845240935](https://github.com/user-attachments/assets/3ed1f83e-f72c-4393-9954-50f697430df5)
 
