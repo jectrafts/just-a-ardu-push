@@ -1,4 +1,4 @@
-<img width="1000" height="1001" alt="image" src="https://github.com/user-attachments/assets/dad2ac3c-fdb9-4180-9c9c-02cf0ad98282" />what u need 
+what u need 
 a oled screen (128*64) 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9998ac0c-f254-4460-9915-4774ebb10855" />
 
@@ -6,13 +6,13 @@ a oled screen (128*64)
 a lens from a diy vr goggles kits
 
 
-<img width="1000" height="1001" alt="image" src="https://github.com/user-attachments/assets/85e87ea8-5d34-47c2-bfdc-5940dc8b6985" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/85e87ea8-5d34-47c2-bfdc-5940dc8b6985" />
 
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/1b893a46-acb9-4f11-bafa-663d9332bfac" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/1b893a46-acb9-4f11-bafa-663d9332bfac" />
 
 a arduino or esp8266
 
-<img width="650" height="420" alt="image" src="https://github.com/user-attachments/assets/a990bfdd-27d3-494a-8b19-437b5ada4c27" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/a990bfdd-27d3-494a-8b19-437b5ada4c27" />
 
 a button
 
