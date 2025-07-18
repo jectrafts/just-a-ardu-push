@@ -1,3 +1,9 @@
+
+a little preview
+
+![1752845240921](https://github.com/user-attachments/assets/f3a9dbdf-97e1-459d-bce6-1ee03ee579e0)
+
+
 what u need 
 a oled screen (128*64) 
 
