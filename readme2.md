@@ -29,10 +29,7 @@ example
 
 <img width="225" height="225"  alt="image" src="https://github.com/user-attachments/assets/92357644-b16b-42f9-84e9-e0e5376ef0e9" />
 
-![1752845240935](https://github.com/user-attachments/assets/3ed1f83e-f72c-4393-9954-50f697430df5)
 
-
-![1752845240921](https://github.com/user-attachments/assets/f3a9dbdf-97e1-459d-bce6-1ee03ee579e0)
 
 
 a button
