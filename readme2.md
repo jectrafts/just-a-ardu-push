@@ -1,5 +1,6 @@
 what u need 
 a oled screen (128*64) 
+
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9998ac0c-f254-4460-9915-4774ebb10855" />
 
 
